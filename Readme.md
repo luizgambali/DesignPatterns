@@ -43,13 +43,13 @@ Nesta categoria, exploramos padrões que lidam com a comunicação entre objetos
     Projeto de exemplo do padrão Strategy, que permite que você alterne o algoritmo ou a estratégia com base na situação.
     
 
-Referencias:
+Referencias usadas nos projetos:
 
-https://www.dofactory.com/net/abstract-factory-design-pattern
-https://refactoring.guru/design-patterns/abstract-factory
-https://www.dofactory.com/net/factory-method-design-pattern
-https://macoratti.net/21/08/c_builder1.htm
-https://www.macoratti.net/19/01/c_strateg1.htm
+    https://www.dofactory.com/net/abstract-factory-design-pattern
+    https://refactoring.guru/design-patterns/abstract-factory
+    https://www.dofactory.com/net/factory-method-design-pattern
+    https://macoratti.net/21/08/c_builder1.htm
+    https://www.macoratti.net/19/01/c_strateg1.htm
 
 
 
